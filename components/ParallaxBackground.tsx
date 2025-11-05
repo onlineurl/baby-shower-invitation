@@ -11,7 +11,12 @@ const ParallaxBackground: React.FC = () => {
             setOffsetY(scrollContainer.scrollTop);
         };
 
+        // Agregar event listener inmediatamente
         scrollContainer.addEventListener('scroll', handleScroll);
+        
+        // Llamar handleScroll una vez para establecer el estado inicial
+        handleScroll();
+
         return () => scrollContainer.removeEventListener('scroll', handleScroll);
     }, []);
     

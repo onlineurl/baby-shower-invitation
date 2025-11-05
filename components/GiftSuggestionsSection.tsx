@@ -8,7 +8,7 @@ const staticSuggestions = [
     "Un set de baño para bebé (toalla con capucha, jabón neutro, esponjita).",
     "Juguetes sensoriales o un gimnasio para bebé.",
     "Canasta o Kit de Artículos de Higiene que siempre usarán"
-    "Un Iphone 17 Pro Max es un excelente regalo! (IA: Me parece que el padre estuvo jugando con estas sugerencias) ",
+    "Un Iphone 17 Pro Max es un excelente regalo! (IA: Me parece que el padre estuvo jugando con estas sugerencias).",
     "Libros de cuentos para leerle antes de dormir.",
     "Un set de alimentación (biberones, platitos, cubiertos).",
 ];
